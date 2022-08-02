@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: gray;
+    text-align: right;
+}
+
+.header div {
+    text-align: right;
+    padding: 0 10px;
+}
+
+.menu {
+    padding: 5px;
+    background-color: gray;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 25px 0 0 0;
+}
+
+.menu .link {
+    background-color:#bebebe;
+    padding: 10px 10px;
+    border-radius: 5px
+}
+
+.main {
+    padding: 10px;
+    background-color: #bebebe;
+    vertical-align: middle;
+}
+
+.main table {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+tr {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footer {
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+}
